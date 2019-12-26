@@ -1,6 +1,7 @@
 {
   "name": "autotask.js",
   "version": "0.0.1",
+  "main": "./autotask.js",
   "dependencies": {
     "when": "~v3.2.3",
     "soap": "~v0.4.7",
